@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tree.iml" filepath="$PROJECT_DIR$/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeConsole/TreeConsole.iml" filepath="$PROJECT_DIR$/TreeConsole/TreeConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeCore/TreeCore.iml" filepath="$PROJECT_DIR$/TreeCore/TreeCore.iml" />
+    </modules>
+  </component>
+</project>
